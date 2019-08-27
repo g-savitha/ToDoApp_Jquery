@@ -1,2 +1,11 @@
-# ToDoApp_Jquery
-Todo application built using Jquery
+# jQuery Todo App
+
+## Tech stack used
+1. jQuery
+⋅⋅* Events & Event delegation
+2. CSS 
+⋅⋅* Box-shadow
+⋅⋅* CSS Gradients
+⋅⋅* Box-Model
+⋅⋅* Transitions
+3. HTML
