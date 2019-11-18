@@ -10,4 +10,4 @@
 ⋅⋅* Transitions
 3. HTML
 
- [Deployed App](https://savitha-gollamudi.github.io/ToDoApp_Jquery/)
+ [View Demo](https://savitha-gollamudi.github.io/ToDoApp_Jquery/)
